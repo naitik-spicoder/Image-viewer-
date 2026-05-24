@@ -23,7 +23,7 @@ It reads a `.ppm` file (Portable Pixmap format), loops through pixel coordinates
 ---
 
 ## 🎨 Demo
-![PPM Viewer Screenshot](medias/viewer.png)
+![PPM Viewer Screenshot](medias/viewer.gif)
 
 ---
 
